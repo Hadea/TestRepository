@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# versteckter Visual Studio Ordner
+\.vs
